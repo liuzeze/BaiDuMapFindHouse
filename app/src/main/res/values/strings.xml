@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BaiduMapDemo</string>
+    <string name="mybottom_sheet_behavior" translatable="false">com.lz.baidumapdemo.BottomSheetBehavior</string>
+
+</resources>
